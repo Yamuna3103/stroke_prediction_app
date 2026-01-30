@@ -8,7 +8,7 @@ A simple **Streamlit web application** that predicts the risk of stroke using a 
 
 Deployed on **Streamlit Cloud**:
 
-> 🔗 *(Add your Streamlit app URL here once deployed)*
+> 🔗 *(https://yamuna3103-stroke-prediction-app-app-kkxaim.streamlit.app/)*
 
 ---
 
